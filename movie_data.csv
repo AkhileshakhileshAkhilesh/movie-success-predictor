@@ -1,0 +1,9 @@
+Movie Name,Budget (in Cr),Duration (mins),Genre,Star Power (1-5),Hit/Flop
+Movie A,100,130,Action,5,Hit
+Movie B,40,150,Drama,3,Flop
+Movie C,60,140,Comedy,4,Hit
+Movie D,20,110,Romance,2,Flop
+Movie E,80,120,Action,5,Hit
+Movie F,30,100,Romance,2,Flop
+Movie G,75,135,Drama,4,Hit
+Movie H,50,125,Comedy,3,Flop
